@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "C3E_8")(type "KiCad")(uri "${KIPRJMOD}/footprint_libraries/C3E_8_000_18_1020_X_R")(options "")(descr ""))
+  (lib (name "SPDT_ROCKER")(type "KiCad")(uri "${KIPRJMOD}/footprint_libraries/100SP1T1B4M2QE")(options "")(descr ""))
+)
